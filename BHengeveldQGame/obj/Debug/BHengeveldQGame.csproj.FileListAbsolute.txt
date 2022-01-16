@@ -1,0 +1,12 @@
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\bin\Debug\BHengeveldQGame.exe.config
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\bin\Debug\BHengeveldQGame.exe
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\bin\Debug\BHengeveldQGame.pdb
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\obj\Debug\BHengeveldQGame.csproj.AssemblyReference.cache
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\obj\Debug\BHengeveldQGame.Properties.Resources.resources
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\obj\Debug\BHengeveldQGame.csproj.GenerateResource.cache
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\obj\Debug\BHengeveldQGame.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\obj\Debug\BHengeveldQGame.exe
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\obj\Debug\BHengeveldQGame.pdb
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\obj\Debug\BHengeveldQGame.ControlPanelForm.resources
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\obj\Debug\BHengeveldQGame.DesignForm.resources
+D:\Visual_Studio_2019_Workspace\PROG2370 - Game\Assignments\BHengeveldQGame\BHengeveldQGame\obj\Debug\BHengeveldQGame.GameForm.resources
